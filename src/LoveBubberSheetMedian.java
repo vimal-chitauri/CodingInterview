@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class LBSheetNo33 {
+class LBSheetNo33 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int lengthOfArray = scanner.nextInt();
