@@ -1,3 +1,5 @@
+package loveBabberSheet.Array;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -6,7 +8,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution implements Interface{
+public class Solution {
 
     // Complete the minimumSwaps function below.
     static int minimumSwaps(int[] arr) {
@@ -26,12 +28,5 @@ public class Solution implements Interface{
         }
         int array1=minimumSwaps(arr);
         System.out.println("args = " + array1);
-
-
-    }
-
-    @Override
-    public void getDetail() {
-        System.out.println("Interface is called");
     }
 }

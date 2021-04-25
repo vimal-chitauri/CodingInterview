@@ -1,3 +1,5 @@
+package codingInterview1_9;
+
 import java.util.Scanner;
 
 public class CodingInterviewArray7 {

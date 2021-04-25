@@ -1,3 +1,5 @@
+package loveBabberSheet.Array;
+
 import java.util.Scanner;
 
 class LBSheetArrayMinimumSwap {

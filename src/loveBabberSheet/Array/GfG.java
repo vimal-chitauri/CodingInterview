@@ -1,3 +1,5 @@
+package loveBabberSheet.Array;
+
 /*Complete the Function below*/
 class GfG {
     public static int palinArray(int[] a, int n) {
