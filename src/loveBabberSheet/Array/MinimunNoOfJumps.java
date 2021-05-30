@@ -22,7 +22,7 @@ public class MinimunNoOfJumps {
         int initial=array[0];
         int count=1;
         List<Integer> list=new ArrayList<>();
-        list.add(Arrays.stream(array).toArray());
+     //   list.add(Arrays.stream(array).toArray());
         while (condition){
             if(array[initial]<=array.length){
                 int x=list.indexOf(initial);
